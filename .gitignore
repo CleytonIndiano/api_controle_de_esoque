@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+### Arquivos temporários e de sistema ###
+*.log
+.env
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+### Pacotes Java ###
+*.jar
+*.war
+*.ear
